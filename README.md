@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lahiru-mahesh-23a482219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-mahesh-23a482219" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100008995475817&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008995475817&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100008995475817&mibextid=zbwkwl" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png" alt="https://www.facebook.com/profile.php?id=100008995475817&mibextid=zbwkwl" height="40" width="40" /></a>
+<a href="https://www.instagram.com/lahiru_mahesh_?igsh=MWFqenJkcXl3cml1dQ==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png" alt="https://www.instagram.com/lahiru_mahesh_?igsh=MWFqenJkcXl3cml1dQ==" height="40" width="40" /></a>
 
 </p>
 
