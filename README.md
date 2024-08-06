@@ -28,6 +28,7 @@
 </table>
 
 ---
+<h3 align="center">My Statistics:</h3>
 <table align="center">
  <tr border="none"> 
    <td width="50%" align="left">
@@ -53,12 +54,14 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> </p>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
+
+</p>
