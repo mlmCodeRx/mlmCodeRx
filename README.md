@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **www.lahirumahesh2@gmail.com**
+- 📫 How to reach me **lahirumahesh08@gmail.com**
   
 - ⚡ Fun fact **Call me as MLM**
 
